@@ -20,3 +20,7 @@ x+y=z
 $$
 
 This is $abc$
+
+- This is $abc$
+
+1. This is $abc$
