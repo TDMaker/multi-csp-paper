@@ -15,3 +15,6 @@
 - CSP 1 verifies whether $h_2=H(P_2\parallel r_2)$ and $P_1=P_2$ .
 - CSP 2 verifies whether $h_1=H(P_1\parallel r_1)$ and $P_1=P_2$.
 
+$$
+x+y=z
+$$
